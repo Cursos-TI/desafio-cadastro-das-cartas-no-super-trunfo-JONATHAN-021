@@ -2,6 +2,8 @@
 
 int main(){
 
+    carta 1
+
     char estado1[1];
     char codigo1[01];
     char cidade1[1];
@@ -10,6 +12,8 @@ int main(){
     float pib1 = 699.28;
     int pontos_turisticos1 = 50;
 
+    carta 2
+    
     char estado2[2];
     char codigo2[02];
     char cidade2[2];
