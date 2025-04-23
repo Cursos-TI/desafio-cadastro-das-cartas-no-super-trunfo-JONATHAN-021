@@ -2,22 +2,20 @@
 
 int main(){
 
-    carta 1
+    printf("desafio carta!\n");
 
     char estado1[1];
     char codigo1[01];
     char cidade1[1];
-     int populacao1 = 12325000;
+    int populacao1 = 12325000;
     float area1 = 1521.11;
     float pib1 = 699.28;
     int pontos_turisticos1 = 50;
 
-    carta 2
-    
     char estado2[2];
     char codigo2[02];
     char cidade2[2];
-     int populacao2 = 6748000;
+    int populacao2 = 6748000;
     float area2 = 1200.25;
     float pib2 = 300.50;
     int pontos_turisticos2 = 30;
